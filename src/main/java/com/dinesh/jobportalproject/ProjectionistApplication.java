@@ -1,4 +1,4 @@
-package com.dinesh.springbootproject;
+package com.dinesh.jobportalproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,10 +1,10 @@
-package com.dinesh.springbootproject.serivce;
+package com.dinesh.jobportalproject.serivce;
 
 
 
 
-import com.dinesh.springbootproject.model.JobPost;
-import com.dinesh.springbootproject.repo.JobRepo;
+import com.dinesh.jobportalproject.model.JobPost;
+import com.dinesh.jobportalproject.repo.JobRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
