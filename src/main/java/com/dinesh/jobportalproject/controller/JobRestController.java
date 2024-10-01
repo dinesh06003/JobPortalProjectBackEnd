@@ -1,8 +1,8 @@
-package com.dinesh.springbootproject.controller;
+package com.dinesh.jobportalproject.controller;
 
 
-import com.dinesh.springbootproject.model.JobPost;
-import com.dinesh.springbootproject.serivce.JobService;
+import com.dinesh.jobportalproject.model.JobPost;
+import com.dinesh.jobportalproject.serivce.JobService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

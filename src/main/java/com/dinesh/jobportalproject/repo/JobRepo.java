@@ -1,6 +1,6 @@
-package com.dinesh.springbootproject.repo;
+package com.dinesh.jobportalproject.repo;
 
-import com.dinesh.springbootproject.model.JobPost;
+import com.dinesh.jobportalproject.model.JobPost;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

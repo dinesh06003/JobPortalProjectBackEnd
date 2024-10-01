@@ -1,4 +1,4 @@
-package com.dinesh.springbootproject.model;
+package com.dinesh.jobportalproject.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
@@ -17,7 +17,6 @@ import java.util.List;
 public class JobPost {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
     private int postId;
     private String postProfile;
     private String postDesc;
