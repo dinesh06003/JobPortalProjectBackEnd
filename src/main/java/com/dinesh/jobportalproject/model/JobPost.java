@@ -17,6 +17,7 @@ import java.util.List;
 public class JobPost {
 
     @Id
+//    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int postId;
     private String postProfile;
     private String postDesc;
